@@ -5,7 +5,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love sports
 
-
+<img align="right" alt="Carol-pic" height="150" style="border-radius:60px;" src="https://i.pinimg.com/originals/48/7e/05/487e0573d02bf9a51685b2054a2ff8ac.jpg">
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Carol-Salesforce" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg">
@@ -16,12 +16,15 @@
   <img align="center" alt="Carol-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
-  <img align="right" alt="Carol-pic" height="150" style="border-radius:60px;" src="https://i.pinimg.com/originals/48/7e/05/487e0573d02bf9a51685b2054a2ff8ac.jpg">
+
+  
 </div>
   
   ##
+ <br>
 <div>
-    <div> 
+    <div>    
+      
 <a href="https://instagram.com/carolinedemel0" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:stefani.uffs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/caroline-melo-5b1b231b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -29,7 +32,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarolineMelo/CarolineMelo/output/pacman-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarolineMelo/CarolineMelo/output/pacman.svg" />
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CarolineMelo/CarolineMelo/output/pacman.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/CarolineMelo/CarolineMelo/blob/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/CarolineMelo/CarolineMelo/blob/output/github-snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://github.com/CarolineMelo/CarolineMelo/blob/output/github-snake.svg">
 </picture>
